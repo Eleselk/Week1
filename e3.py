@@ -1,4 +1,3 @@
-n1 = input("First: ")
-n2 = input("Second: ")
-sum = float(n1) + float(n2)
-print(sum)
+w1 = input("Enter 1st word: ")
+w2 = input("Enter 2nd word: ")
+print(w1 + ":" + w2 + "!")
